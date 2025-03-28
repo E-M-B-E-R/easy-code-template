@@ -1,3 +1,6 @@
 [submodule "src/content/posts"]
 	path = src/content/posts
 	url = https://github.com/E-M-B-E-R/blog-posts
+[submodule "public"]
+	path = public
+	url = https://github.com/E-M-B-E-R/blog-public
